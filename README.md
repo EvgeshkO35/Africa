@@ -10,3 +10,5 @@ What I learned:
 8) How to optimize the app's layout for iPad screens
 9) How to transfer an iPad app to a desktop app with MAC CATALYST
 10) How to create a motion animation programmatically
+
+Bonus: How create a new iMessage Extension (iOS 14 Sticker Pack) without coding
